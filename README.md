@@ -1,0 +1,1 @@
+This project involves creating a small recipe site using solely HTML, to practice things like links, lists, and images.
